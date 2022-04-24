@@ -2,7 +2,7 @@
   "name": "renovate-yarn-engine-v3",
   "private": true,
   "devDependencies": {
-    "webpack": "5.69.0"
+    "webpack": "5.72.0"
   },
   "engines": {
     "yarn": "^3.0.2"
